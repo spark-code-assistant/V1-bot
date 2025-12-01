@@ -1,2 +1,2 @@
 # V1-bot
-discord bot for v1 
+discord bot for v1 community
